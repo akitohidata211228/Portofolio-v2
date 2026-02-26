@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://portofoliohidata.vercel.app/sitemap.xml
